@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/mignon-g-eberhart/the-patient-in-room-18</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-12-17T17:09:21Z</dc:date>
+		<meta property="dcterms:modified">2025-12-17T17:09:21Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -29,7 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Patient in Room 18</dc:title>
 		<meta property="file-as" refines="#title">Patient in Room 18, The</meta>
-		<meta property="dcterms:alternate" refines="#title">The Patient in Room Eighteen</meta>
+		<meta property="dcterms:alternative" refines="#title">The Patient in Room Eighteen</meta>
 		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
 		<dc:subject id="subject-2">Medical fiction</dc:subject>
 		<dc:subject id="subject-3">Nurses -- Fiction</dc:subject>
@@ -51,16 +51,17 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:description id="description">A nurse helps a detective investigate a mysterious murder in a hospital as the suspense mounts.</dc:description>
+		<dc:description id="description">A nurse helps a detective investigate a murder in a hospital.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;St. Ann’s Hospital, in an unnamed city in the Midwest of the U.S., is the setting for this suspenseful murder mystery. A patient mysteriously dies during a fierce thunderstorm and it soon becomes clear that the death was a murder committed by one of a small circle of senior staff. As nurse Sarah Keate and detective Lance O’Leary work together to solve the mystery, the suspense builds and suspicion deepens until no one can be trusted.&lt;/p&gt;
-			&lt;p&gt;Appearing in 1929, &lt;i&gt;The Patient in Room 18&lt;/i&gt; is the first published novel of &lt;a href="https://standardebooks.org/ebooks/mignon-g-eberhart"&gt;Mignon G. Eberhart&lt;/a&gt; and the first of a series of seven featuring &lt;a href="https://standardebooks.org/collections/sarah-keate"&gt;Sarah Keate&lt;/a&gt;, a no-nonsense nurse who happens to come up against mysterious cases of murder and alternately helps and hinders their investigations. It is also the first introduction of Captain Lance O’Leary, the detective who also appears in several of the Keate novels. Eberhart’s books continue the tradition of suspenseful “had I but known” school of mystery writing in the vein of &lt;a href="https://standardebooks.org/ebooks/mary-roberts-rinehart"&gt;Mary Roberts Rinehart&lt;/a&gt;. This book was also adapted into a film released in 1938.&lt;/p&gt;
+			&lt;p&gt;St. Ann’s Hospital, located in an unnamed city in the U.S. Midwest, is the setting for this murder mystery. A patient mysteriously dies during a fierce thunderstorm, and it soon becomes clear that the death was a murder committed by one of a small circle of senior staff. As nurse &lt;a href="https://standardebooks.org/collections/sarah-keate"&gt;Sarah Keate&lt;/a&gt; and detective Lance O’Leary work together to solve the mystery, the suspense builds and suspicion deepens until no one can be trusted.&lt;/p&gt;
+			&lt;p&gt;Published in 1929, &lt;i&gt;The Patient in Room 18&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/mignon-g-eberhart"&gt;Mignon G. Eberhart’s&lt;/a&gt; first novel, and the first of a series of seven featuring Sarah Keate, a no-nonsense nurse who happens to keep being drawn into murder mysteries, and alternately helps and hinders their investigations. It also introduces Captain Lance O’Leary, the detective who appears in several of the Sarah Keate novels.&lt;/p&gt;
+			&lt;p&gt;This novel was adapted into a film released in 1938.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75384</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/101865748</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">82764</meta>
+		<meta property="se:reading-ease.flesch">74.39</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Patient_in_Room_18</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mignon-g-eberhart_the-patient-in-room-18</meta>
 		<dc:creator id="author">Mignon G. Eberhart</dc:creator>
@@ -86,6 +87,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
