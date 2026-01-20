@@ -60,7 +60,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75384</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/101865748</dc:source>
-		<meta property="se:word-count">82764</meta>
+		<meta property="se:word-count">81368</meta>
 		<meta property="se:reading-ease.flesch">74.39</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Patient_in_Room_18</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mignon-g-eberhart_the-patient-in-room-18</meta>
