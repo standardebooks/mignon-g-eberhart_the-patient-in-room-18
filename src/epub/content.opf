@@ -52,7 +52,7 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:abstract>A nurse helps a detective investigate a murder in a hospital.</dc:abstract>
+		<meta property="schema:abstract">A nurse helps a detective investigate a murder in a hospital.</meta>
 		<dc:description>
 			&lt;p&gt;St. Ann’s Hospital, located in an unnamed city in the U.S. Midwest, is the setting for this murder mystery. A patient mysteriously dies during a fierce thunderstorm, and it soon becomes clear that the death was a murder committed by one of a small circle of senior staff. As nurse &lt;a href="https://standardebooks.org/collections/sarah-keate"&gt;Sarah Keate&lt;/a&gt; and detective Lance O’Leary work together to solve the mystery, the suspense builds and suspicion deepens until no one can be trusted.&lt;/p&gt;
 			&lt;p&gt;Published in 1929, &lt;i&gt;The Patient in Room 18&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/mignon-g-eberhart"&gt;Mignon G. Eberhart’s&lt;/a&gt; first novel, and the first of a series of seven featuring Sarah Keate, a no-nonsense nurse who happens to keep being drawn into murder mysteries, and alternately helps and hinders their investigations. It also introduces Captain Lance O’Leary, the detective who appears in several of the Sarah Keate novels.&lt;/p&gt;
